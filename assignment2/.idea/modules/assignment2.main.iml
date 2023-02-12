@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java/problem1_Inventory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java/problem1_Inventory/Grocery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java/problem1_Inventory/Household" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java/problem2_customer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java/problem2_customer/Customer" isTestSource="false" />
+    </content>
+  </component>
+</module>
