@@ -1,0 +1,30 @@
+[[company_name]].
+[[first_name]] [[last_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+([[email]])
+
+Dear [[first_name]] [[last_name]], 
+
+Similarly, we also have a template for the company's letter: 
+[[first_name]] [[last_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+([[email]])
+
+Dear [[first_name]] [[last_name]],
+
+Thank you for signing up an account with us. We would like to confirm your information in our system as follow:
+- Name: [[first_name]] [[last_name]]
+- Company: [[company_name]]
+- Address: [[address]], [[city]], [[county]] County, [[state]], [[zip]]
+- Phone 1: [[phone1]]
+- Phone 2: [[phone2]]
+- Email: [[email]]
+- Web: [[web]]
+
+If you find any of the above information incorrect or would like to make an update, please call us at 866-852-8680.
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
