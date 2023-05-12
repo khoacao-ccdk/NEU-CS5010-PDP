@@ -7,6 +7,7 @@ import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Objects;
+import Customer.*;
 
 /**
  * Represents the Letter template handler

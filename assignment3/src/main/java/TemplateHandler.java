@@ -3,6 +3,7 @@
  *
  * @author Cody Cao
  */
+import Customer.*;
 public interface TemplateHandler {
 
   /**
